@@ -6,7 +6,7 @@ Habit Core application demo
 
 ---
 
-## 🚀 Features
+##  Features
 
 -  Create and manage daily habits
 - Visualize habit streaks
@@ -25,7 +25,7 @@ Habit Core application demo
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 habitcore/            
 app/              
 static/       
