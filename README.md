@@ -16,7 +16,7 @@ Habit Core application demo
 
 ---
 
-##  Tech Stack (Python Version)
+##  Tech Stack 
 
 - Backend: Python, Flask
 - Frontend: HTML, CSS, JavaScript
