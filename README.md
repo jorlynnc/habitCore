@@ -27,13 +27,13 @@ Habit Core application demo
 
 ## 📂 Folder Structure
 habitcore/            
-├── app/              
-│   ├── static/       
-│   ├── templates/    
-│   ├── __init__.py   
-│   ├── routes.py     
-│   └── models.py     
-├── tests/            
-├── run.py            
-├── README.md         
-└── requirements.txt  
+app/              
+static/       
+templates/    
+ __init__.py   
+ routes.py     
+ models.py     
+ tests/            
+run.py            
+README.md         
+requirements.txt  
