@@ -37,3 +37,9 @@ templates/
 run.py            
 README.md         
 requirements.txt  
+
+## Specific tasks:
+- Create `app/` folder and `__init__.py`
+- Create `run.py` to launch Flask app
+- Add placeholder `index.html` in `templates/`
+
