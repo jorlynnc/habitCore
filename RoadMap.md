@@ -16,7 +16,7 @@
 
 ###  Research Tasks
 - [x] Find and clone a related GitHub repo (e.g., Flask habit tracker)
-- [ ] Evaluate structure, good practices, and features
+- [x] Evaluate structure, good practices, and features
 - [ ] Document what you learn in a `NOTES.md` file
 
 ---
@@ -26,5 +26,11 @@
 - Testing of the application
 - Style basic UI
 - Finalze code files
+
+## Specific Tasks
+- [ ] Create `app/` folder and `__init__.py`
+- [ ] Create `run.py` to launch Flask app
+- [ ] Add placeholder `index.html` in `templates/`
+
 
 
